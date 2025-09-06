@@ -16,8 +16,8 @@ A modern web application for generating AI images using Hugging Face's Inference
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd js
+   git clone https://github.com/MariamQasemi/AI-Image-generator.git
+   cd AI-Image-generator
    ```
 
 2. **Get a Hugging Face API Key**
